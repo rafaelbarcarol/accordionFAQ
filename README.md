@@ -26,8 +26,12 @@
 
 - Sessão de Perguntas Frequentes que mostra ou esconde as informações conforme as interações do usuário.
 
+![courseFAQ-1](https://github.com/rafaelbarcarol/accordionFAQ/assets/128104779/161688ef-f0d2-4771-9e2f-d937c48ecdcf)
+
 <br>
 
 ## Responsividade
 
-- Projeto responsivo para se adequar a diferentes tamanhos de tela.
+- Projeto responsivo que se adequa e adapta a diferentes tamanhos de tela.
+
+- Responsividade realizada por meio do uso de media queries.
