@@ -2,6 +2,10 @@
 
 - Página de sessão FAQ (perguntas frequentes) no estilo accordion/acordeão que simula um FAQ de curso fictício.
 
+- Sessão de Perguntas Frequentes que mostra ou esconde as informações conforme as interações do usuário.
+
+![courseFAQ-1](https://github.com/rafaelbarcarol/accordionFAQ/assets/128104779/161688ef-f0d2-4771-9e2f-d937c48ecdcf)
+
 <br>
 
 ## Stacks utilizadas
@@ -19,14 +23,6 @@
 - Projeto de estudo para prática e fixação de conceitos de HTML, CSS e JS;
 
 - Documentação da jornada para futuras análises comparativas e percepção da evolução.
-
-<br>
-
-## Interação
-
-- Sessão de Perguntas Frequentes que mostra ou esconde as informações conforme as interações do usuário.
-
-![courseFAQ-1](https://github.com/rafaelbarcarol/accordionFAQ/assets/128104779/161688ef-f0d2-4771-9e2f-d937c48ecdcf)
 
 <br>
 
