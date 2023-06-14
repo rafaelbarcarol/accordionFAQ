@@ -1,4 +1,4 @@
-# Projeto de FAQ Accordion
+# FAQ Accordion
 
 - Página de sessão FAQ (perguntas frequentes) no estilo accordion/acordeão que simula um FAQ de curso fictício.
 
