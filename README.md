@@ -1,6 +1,6 @@
 # FAQ Accordion
 
-- Página de sessão FAQ (perguntas frequentes) no estilo accordion/acordeão que simula um FAQ de curso fictício.
+- Página de sessão FAQ (perguntas frequentes) no estilo accordion/acordeão que simula um FAQ de curso fictício;
 
 - A aplicação mostra ou esconde as informações conforme as interações do usuário.
 
@@ -26,6 +26,6 @@
 
 ## Responsividade
 
-- Projeto responsivo que se adequa e adapta a diferentes tamanhos de tela.
+- Projeto responsivo que se adequa e adapta a diferentes tamanhos de tela;
 
 - Responsividade realizada por meio do uso de media queries.
