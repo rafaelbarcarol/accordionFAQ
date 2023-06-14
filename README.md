@@ -6,8 +6,6 @@
 
 ![courseFAQ-1](https://github.com/rafaelbarcarol/accordionFAQ/assets/128104779/161688ef-f0d2-4771-9e2f-d937c48ecdcf)
 
-<br>
-
 ## Stacks utilizadas
 
 <p><img alt="HTML" height="15" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> HTML</p>
